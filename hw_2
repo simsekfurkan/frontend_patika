@@ -1,0 +1,42 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <!--Head -->
+  <h1 style="color: #b3d4fc">Furkan Şimşek</h1>
+  <!--About Me -->
+  <h2 style="color: red">Hakkımda</h2>
+  <p>Bilgisayar mühendisliği 2.sınıf öğrencisi olan Furkan, Kodluyoruz 22. İstanbul iOS Bootcamp mezunu. 2015’de kurduğu takımıyla yarı-profesyonel e-spor oyuncusu olarak çeşitli başarılar kazanan Furkan şuan Kodluyoruz’da bootcamp alanında stajyer olarak destek veriyor.
+  </p>
+  <!-- Hobbies -->
+    <h3>İlgi Alanlarım</h3>
+  <!-- List -->
+
+  <ol>
+    <li>Film
+      <ul>
+        <li><a href="https://www.imdb.com/title/tt0120737/?ref_=nv_sr_srsg_0">Yüzüklerin Efendisi</a></li>
+        <img width="300"  src="https://i4.hurimg.com/i/hurriyet/75/770x0/600ad9787152d817f4b4962f" alt="Efendimisss"><p>Efendimisssss</p>
+        <li>Cennet</li>
+        <li>Cehennem</li>
+      </ul>
+      </li>
+      <li>Dizi
+        <ul>
+          <li>Sherlock</li>
+          <li><a href="https://www.imdb.com/title/tt0944947/?ref_=nv_sr_srsg_0">Taht Oyunları</a></li>
+          <li>The Oz</li></ul>
+      </li>
+       <li>Kitap
+         <ul>
+           <li>Nudge: Improving Decisions About Health, Wealth, and Happiness</li>
+           <li>Thinking, Fast and Slow</li>
+           <li><a href="https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People">How to Win Friends and Influence People
+           </a></li></ul>
+       </li>
+  </ol>
+
+  </body>
+</html>
